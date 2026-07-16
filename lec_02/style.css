@@ -46,8 +46,15 @@ border: 5px solid rgb(237,231,231);
 width: 25%;
 height: 55%;
 }
-#first{
+#first {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: aqua;
     text-transform: capitalize;
+    
+}
+#second 
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
 }
