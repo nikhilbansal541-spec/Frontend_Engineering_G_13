@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+
+}
+.container{
+    color: white;
+    text-align: center;
+
+}
+.header1 {
+    border: 10px solid yellowgreen;
+    margin-bottom: 15px;
+    margin-top: 150px;
+    display: flex;
+
+}
+.header2 {
+    border: 10px solid blueviolet;
+    margin-bottom: 15px;
+    display: flex;
+}
+.header3 {
+    border: 10px solid red;
+    display: flex;
+}
